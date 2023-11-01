@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+
+    <!-- Campus Options -->
+    <string-array name="campus_options">
+        <item>RMD Technical Campus</item>
+        <item>RMD Medical Campus</item>
+    </string-array>
+
+    <!-- Technical Courses -->
+    <string-array name="technical_courses">
+        <item>MBA</item>
+        <item>MCA</item>
+        <item>ENG</item>
+    </string-array>
+
+    <!-- Medical Courses -->
+    <string-array name="medical_courses">
+        <item>MBBS</item>
+        <item>BAMS</item>
+        <item>BHMS</item>
+    </string-array>
+</resources>
